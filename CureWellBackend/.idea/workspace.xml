@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52327c3c-4cba-42fa-b733-4f0997f56349" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../BookRestFulAPI/spring-boot-api-book/spring-boot-api-book/src/main/java/com/thezaibaelmi/spring/boot/api/book/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../BookRestFulAPI/spring-boot-api-book/spring-boot-api-book/src/main/java/com/thezaibaelmi/spring/boot/api/book/entity/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../BookRestFulAPI/spring-boot-api-book/spring-boot-api-book/src/main/java/com/thezaibaelmi/spring/boot/api/book/repository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../BookRestFulAPI/spring-boot-api-book/spring-boot-api-book/src/main/java/com/thezaibaelmi/spring/boot/api/book/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../BookRestFulAPI/spring-boot-api-book/spring-boot-api-book/src/main/java/com/thezaibaelmi/spring/boot/api/book/service/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blogproject/blog-rest-api (1)/blog-rest-api/src/main/java/com/thezaibaelmi/blog/rest/api/Security/CustomUserDetailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blogproject/blog-rest-api (1)/blog-rest-api/src/main/java/com/thezaibaelmi/blog/rest/api/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blogproject/blog-rest-api (1)/blog-rest-api/src/main/java/com/thezaibaelmi/blog/rest/api/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blogproject/blog-rest-api (1)/blog-rest-api/src/main/java/com/thezaibaelmi/blog/rest/api/controller/CommentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blogproject/blog-rest-api (1)/blog-rest-api/src/main/java/com/thezaibaelmi/blog/rest/api/controller/PostController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blogproject/blog-rest-api (1)/blog-rest-api/src/main/java/com/thezaibaelmi/blog/rest/api/entity/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blogproject/blog-rest-api (1)/blog-rest-api/src/main/java/com/thezaibaelmi/blog/rest/api/entity/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blogproject/blog-rest-api (1)/blog-rest-api/src/main/java/com/thezaibaelmi/blog/rest/api/entity/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blogproject/blog-rest-api (1)/blog-rest-api/src/main/java/com/thezaibaelmi/blog/rest/api/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blogproject/blog-rest-api (1)/blog-rest-api/src/main/java/com/thezaibaelmi/blog/rest/api/exception/BlogApiException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blogproject/blog-rest-api (1)/blog-rest-api/src/main/java/com/thezaibaelmi/blog/rest/api/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blogproject/blog-rest-api (1)/blog-rest-api/src/main/java/com/thezaibaelmi/blog/rest/api/exception/ResourceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blogproject/blog-rest-api (1)/blog-rest-api/src/main/java/com/thezaibaelmi/blog/rest/api/payload/ErrorDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blogproject/blog-rest-api (1)/blog-rest-api/src/main/java/com/thezaibaelmi/blog/rest/api/payload/LoginDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blogproject/blog-rest-api (1)/blog-rest-api/src/main/java/com/thezaibaelmi/blog/rest/api/payload/RegisterDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blogproject/blog-rest-api (1)/blog-rest-api/src/main/java/com/thezaibaelmi/blog/rest/api/repository/CommentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blogproject/blog-rest-api (1)/blog-rest-api/src/main/java/com/thezaibaelmi/blog/rest/api/repository/PostRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blogproject/blog-rest-api (1)/blog-rest-api/src/main/java/com/thezaibaelmi/blog/rest/api/repository/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blogproject/blog-rest-api (1)/blog-rest-api/src/main/java/com/thezaibaelmi/blog/rest/api/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blogproject/blog-rest-api (1)/blog-rest-api/src/main/java/com/thezaibaelmi/blog/rest/api/service/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blogproject/blog-rest-api (1)/blog-rest-api/src/main/java/com/thezaibaelmi/blog/rest/api/service/CommentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blogproject/blog-rest-api (1)/blog-rest-api/src/main/java/com/thezaibaelmi/blog/rest/api/service/Impl/AuthServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blogproject/blog-rest-api (1)/blog-rest-api/src/main/java/com/thezaibaelmi/blog/rest/api/service/Impl/CommentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blogproject/blog-rest-api (1)/blog-rest-api/src/main/java/com/thezaibaelmi/blog/rest/api/service/Impl/PostServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blogproject/blog-rest-api (1)/blog-rest-api/src/main/java/com/thezaibaelmi/blog/rest/api/service/PostService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spring-core-demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spring-core-demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spring-core-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spring-core-demo/src/main/java/com/thezaibaelmi/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spring-core-demo/src/main/java/com/thezaibaelmi/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spring-core-demo/src/main/java/com/thezaibaelmi/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spring-core-demo/src/main/java/com/thezaibaelmi/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spring-core-demo/src/main/java/com/thezaibaelmi/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spring-core-demo/src/main/java/com/thezaibaelmi/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spring-core-demo/src/main/java/com/thezaibaelmi/emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spring-core-demo/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spring-core-demo/src/test/java/com/thezaibaelmi/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spring-core-demo1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spring-core-demo1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spring-core-demo1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spring-core-demo1/src/main/java/com/thezaibaelmi/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spring-core-demo1/src/main/java/com/thezaibaelmi/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spring-core-demo1/src/main/java/com/thezaibaelmi/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spring-core-demo1/src/main/java/com/thezaibaelmi/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spring-core-demo1/src/main/java/com/thezaibaelmi/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spring-core-demo1/src/main/java/com/thezaibaelmi/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spring-core-demo1/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spring-core-demo1/src/test/java/com/thezaibaelmi/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spring.boot1/spring.boot1/src/main/java/com/thezaibaelmi/spring/boot1/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spring.boot1/spring.boot1/src/main/java/com/thezaibaelmi/spring/boot1/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spring.boot1/spring.boot1/src/main/java/com/thezaibaelmi/spring/boot1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spring.boot1/spring.boot1/src/main/java/com/thezaibaelmi/spring/boot1/StudentController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2uqjchXmK6ljGLjGzX7B5Krg89m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CureWellApplication.executor": "Run",
+    "Application.com.thezaibaelmi.CureWell.CureWellApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Admin/Downloads",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.CureWellApplication">
+    <configuration name="CureWellApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.CureWell.CureWellApplication" />
+      <module name="CureWell" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.CureWell.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.thezaibaelmi.CureWell.CureWellApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thezaibaelmi.CureWell.CureWellApplication" />
+      <module name="CureWell" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thezaibaelmi.CureWell.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CureWellApplication" />
+        <item itemvalue="Application.com.thezaibaelmi.CureWell.CureWellApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52327c3c-4cba-42fa-b733-4f0997f56349" name="Changes" comment="" />
+      <created>1742983080965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742983080965</updated>
+    </task>
+    <servers />
+  </component>
+</project>

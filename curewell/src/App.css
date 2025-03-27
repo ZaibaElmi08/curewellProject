@@ -1,0 +1,9 @@
+.main-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh; /* Adjusts for Navbar and Footer */
+  text-align: center;
+  font-size: 32px;
+  font-weight: bold;
+}
